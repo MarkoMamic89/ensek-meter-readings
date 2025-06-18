@@ -1,7 +1,6 @@
 ﻿using Ensek.MeterReadings.Api.Data;
 using Ensek.MeterReadings.Api.DTOs;
 using Ensek.MeterReadings.Api.Models;
-using Microsoft.AspNetCore.Http;
 using System.Globalization;
 using System.Text.RegularExpressions;
 

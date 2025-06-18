@@ -1,8 +1,7 @@
 
-using Microsoft.EntityFrameworkCore;
 using Ensek.MeterReadings.Api.Data;
 using Ensek.MeterReadings.Api.Services;
-using System;
+using Microsoft.EntityFrameworkCore;
 
 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 var builder = WebApplication.CreateBuilder(args);

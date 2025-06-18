@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-
-namespace Ensek.MeterReadings.Api.DTOs
+﻿namespace Ensek.MeterReadings.Api.DTOs
 {
     public class FileUploadRequest
     {

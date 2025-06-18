@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Ensek.MeterReadings.Api.DTOs;
+﻿using Ensek.MeterReadings.Api.DTOs;
 
 namespace Ensek.MeterReadings.Api.Services
 {

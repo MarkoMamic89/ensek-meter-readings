@@ -1,11 +1,9 @@
 ﻿using Ensek.MeterReadings.Api.Data;
-using Ensek.MeterReadings.Api.DTOs;
 using Ensek.MeterReadings.Api.Models;
 using Ensek.MeterReadings.Api.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using System.Text;
-using Xunit;
 
 namespace Ensek.MeterReadings.Tests
 {

@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Ensek.MeterReadings.Api.DTOs;
 using Ensek.MeterReadings.Api.Services;
-using Ensek.MeterReadings.Api.DTOs;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Ensek.MeterReadings.Api.Controllers
 {
